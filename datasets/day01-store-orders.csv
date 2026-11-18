@@ -1,0 +1,245 @@
+order_id,order_date,customer_id,customer_name,city,category,product,quantity,unit_price_npr,discount_pct,payment_method,order_status
+ORD1001,2026-07-21,C055,Rita Lama,Kathmandu,Groceries,Tea 500g,2,260,0,Cash,Delivered
+ORD1002,2026-10-06,C041,Laxmi Regmi,,Home & Kitchen,Water Bottle,4,420,0,Card,Delivered
+ORD1003,2026-01-29,C031,Suresh Regmi,Pokhara,Groceries,Basmati Rice 5kg,1,1010,5,,Delivered
+ORD1004,2026-05-17,C020,Puja Bista,,Clothing,Jacket,3,7030,5,Bank Transfer,Delivered
+ORD1005,2026-04-07,,Prakash Ghimire,,Clothing,Jacket,3,4260,0,eSewa,Delivered
+ORD1006,2026-09-29,C046,Sunita Regmi,Butwal,Home & Kitchen,Water Bottle,4,690,15,Card,Delivered
+ORD1007,2026-03-29,C036,Suresh Pandey,Bharatpur,Electronics,Phone Charger,2,920,15,Bank Transfer,Delivered
+ORD1008,2026-10-04,C049,Binod Ghimire,Butwal,Home & Kitchen,Water Bottle,3,310,0,Card,Pending
+ORD1009,2026-08-15,C058,Puja Subedi,Pokhara,Electronics,Power Bank,2,3150,0,Cash,Delivered
+ORD1010,2026-10-03,C027,Anita Subedi,Pokhara,Stationery,Geometry Box,5,350,0,Bank Transfer,Delivered
+ORD1011,2026-07-17,C012,Kabita Limbu,Dharan,Electronics,Phone Charger,3,1390,15,Bank Transfer,Delivered
+ORD1012,2026-06-14,C051,Dipak Lama,Pokhara,Groceries,Tea 500g,4,280,15,Card,Delivered
+ORD1013,2026-02-06,C025,Rita Lama,Pokhara,groceries,Tea 500g,-2,270,10,Card,Delivered
+ORD1014,2026-01-02,C005,Binod Adhikari,Kathmandu,Home & Kitchen,Steel Plates Set,1,960,0,Bank Transfer,Delivered
+ORD1015,2026-08-06,C012,Kabita Limbu,Biratnagar,Groceries,Basmati Rice 5kg,1,900,0,Card,Delivered
+ORD1016,2026-03-16,C047,Puja Lama,KTM,Groceries,Lentils 2kg,2,320,0,Bank Transfer,Returned
+ORD1017,2026-02-06,C044,Kabita Khatri,Pokhara,Clothing,Jacket,1,6440,15,Khalti,Delivered
+ORD1018,2026-06-09,C030,Kabita Khatri,Lalitpur,Electronics,Earbuds,1,2720,0,Cash,Delivered
+ORD1019,2026-01-22,C026,Sabina Lama,Kathmandu,Home & Kitchen,Steel Plates Set,1,"Rs. 1,250",5,Card,Cancelled
+ORD1020,2026-08-13,C005,Binod Adhikari,Kathmandu,Electronics,LED Bulb Pack,1,580,0,eSewa,Delivered
+ORD1021,2026-10-04,C019,Manoj Oli,Biratnagar,Electronics,Power Bank,3,3030,15,Cash,Delivered
+ORD1022,2026-01-01,C053,Suresh Pandey,Dharan,Clothing,Jeans,2,3480,15,eSewa,Delivered
+ORD1023,2026-01-11,C058,Puja Subedi,Kathmandu,Home & Kitchen,Water Bottle,2,600,0,eSewa,Delivered
+ORD1024,2026-03-11,C056,Binod Pandey,Butwal,Electronics,Earbuds,1,4120,0,Bank Transfer,Delivered
+ORD1025,2026-07-04,C031,Suresh Regmi,Biratnagar,Electronics,Power Bank,2,2580,5,Card,Delivered
+ORD1026,2026-05-23,C060,Sabina Pandey,Lalitpur,Stationery,Pen Box,3,140,10,eSewa,Returned
+ORD1027,2026-04-12,C053,Suresh Pandey,,Clothing,Woolen Cap,1,660,15,eSewa,Delivered
+ORD1028,2026-01-12,C019,Manoj Oli,Butwal,Electronics,LED Bulb Pack,1,500,5,Khalti,Pending
+ORD1029,2026-08-16,C054,Rajesh Ghimire,Biratnagar,Home & Kitchen,Water Bottle,4,300,0,Khalti,Delivered
+ORD1030,2026-06-01,C054,Rajesh Ghimire,Kathmandu,Home & Kitchen,Pressure Cooker,1,2220,5,Cash,Delivered
+ORD1031,2026-01-11,C052,Gita Lama,Dharan,Groceries,Tea 500g,5,250,0,Cash,Delivered
+ORD1032,2026-10-30,C059,Prakash Ghimire,Biratnagar,Electronics,Earbuds,1,3410,0,Khalti,Delivered
+ORD1033,2026-02-10,C046,Sunita Regmi,Dharan,Groceries,Mustard Oil 1L,4,320,15,Bank Transfer,Delivered
+ORD1034,2026-10-19,C016,Rita Acharya,Bharatpur,Groceries,Tea 500g,3,9999999,5,Card,Cancelled
+ORD1035,2026-04-02,C054,Rajesh Ghimire,Biratnagar,Electronics,Power Bank,2,3110,0,Card,Cancelled
+ORD1036,2026-06-06,C040,Nabin Subedi,Pokhara,Home & Kitchen,Pressure Cooker,2,3110,0,Khalti,Delivered
+ORD1037,2026-08-29,C034,Kiran Subedi,Kathmandu,Electronics,Power Bank,2,2250,10,eSewa,Delivered
+ORD1038,2026-10-23,C053,Suresh Pandey,Dharan,Clothing,Jacket,1,5660,15,eSewa,Delivered
+ORD1039,2026-01-30,C014,Sabina Joshi,Kathmandu,Home & Kitchen,Water Bottle,2,630,10,Bank Transfer,Delivered
+ORD1040,2026-01-20,C059,Prakash Ghimire,Dharan,Stationery,Pen Box,5,280,0,Bank Transfer,Cancelled
+ORD1041,2026-06-09,C007,Suresh Karki,Kathmandu,ELECTRONICS,Notebook Pack,5,430,5,Bank Transfer,Delivered
+ORD1042,2026-02-12,C048,Puja Ghimire,Pokhara,Groceries,Lentils 2kg,2,340,5,Card,Returned
+ORD1043,2026-01-09,C012,Kabita Limbu,Kathmandu,Electronics,Phone Charger,1,1190,10,eSewa,Delivered
+ORD1044,2026-01-29,C023,Sita Subedi,,Stationery,Notebook Pack,1,350,15,eSewa,Cancelled
+ORD1045,2026-09-04,C037,Mina Khatri,Bharatpur,Stationery,Calculator,3,"1,800",0,,Delivered
+ORD1046,2026-04-02,C013,Prakash Khadka,Bharatpur,Clothing,Woolen Cap,3,360,0,Bank Transfer,Cancelled
+ORD1047,2026-01-09,,Rita Lama,Butwal,Clothing,Jacket,5,4670,0,eSewa,Delivered
+ORD1048,2026-07-28,C004,Gita Rai,Bharatpur,Home & Kitchen,Water Bottle,4,680,5,Cash,Pending
+ORD1049,2026-08-06,C044,Kabita Khatri,Kathmandu,Clothing,Jeans,4,3580,5,Card,Delivered
+ORD1050,2026-09-21,C010,Sunita Magar,Kathmandu,Groceries,Mustard Oil 1L,2,320,0,Cash,Pending
+ORD1051,2026-07-07,C041,Laxmi Regmi,Bharatpur,Groceries,Tea 500g,1,280,5,Khalti,Pending
+ORD1052,2026-06-27,C035,Prakash Subedi,Biratnagar,Stationery,Pen Box,1,300,0,Bank Transfer,Delivered
+ORD1053,2026-09-18,C059,Prakash Ghimire,Bharatpur,Electronics,Phone Charger,1,1150,0,Cash,Delivered
+ORD1054,2026-10-31,C007,Suresh Karki,Bharatpur,Electronics,Power Bank,1,1920,15,Khalti,Delivered
+ORD1055,2026-07-05,C018,Laxmi Dahal,Biratnagar,Stationery,Pen Box,3,260,0,Cash,Delivered
+ORD1056,2026-02-30,C060,Sabina Pandey,Bharatpur,Clothing,Jeans,1,2440,10,Card,Delivered
+ORD1057,2026-02-20,C027,Anita Subedi,Bharatpur,Electronics,Earbuds,1,3860,0,Card,Delivered
+ORD1058,2026-07-07,C027,Anita Subedi,Bharatpur,Groceries,Lentils 2kg,1,360,5,Card,Delivered
+ORD1059,2026-07-01,C012,Kabita Limbu,Butwal,Groceries,Lentils 2kg,1,300,15,Khalti,Delivered
+ORD1060,2026-06-30,C009,Rajesh Poudel,Dharan,Electronics,Earbuds,1,1970,15,Card,Delivered
+ORD1061,2026-06-08,C061,sita sharma,Biratnagar,Electronics,Earbuds,2,2950,0,Cash,Delivered
+ORD1062,2026-04-18,C018,Laxmi Dahal,Butwal,Stationery,Calculator,4,870,0,Bank Transfer,Delivered
+ORD1063,2026-04-17,C023,Sita Subedi,Butwal,Clothing,Jacket,4,5480,0,Bank Transfer,Delivered
+ORD1064,2026-09-14,C026,Sabina Lama,Pokhara,Groceries,Lentils 2kg,2,320,0,Cash,Cancelled
+ORD1065,2026-09-11,C046,Sunita Regmi,Lalitpur,Groceries,Tea 500g,2,380,5,Card,Cancelled
+ORD1066,2026-04-10,C039,Suresh Khatri,Biratnagar,Clothing,Jeans,5,2410,15,Cash,Delivered
+ORD1067,2026-03-22,C038,Rita Ghimire,Pokhara,Clothing,Jeans,5,2440,0,Card,Delivered
+ORD1068,2026-05-19,C051,Dipak Lama,Lalitpur,Clothing,Woolen Cap,5,580,0,eSewa,Delivered
+ORD1069,2026-03-15,C019,Manoj Oli,Pokhara,Stationery,Geometry Box,1,300,0,Khalti,Delivered
+ORD1070,2026-02-05,C040,Nabin Subedi,Butwal,Groceries,Tea 500g,5,250,10,Cash,Delivered
+ORD1071,2026-04-02,C050,Rajesh Lama,Pokhara,Stationery,Pen Box,3,260,5,,Delivered
+ORD1072,2026-04-14,C032,Kabita Lama,Biratnagar,Home & Kitchen,Pressure Cooker,1,2890,0,Card,Delivered
+ORD1073,2026-07-04,C009,Rajesh Poudel,Kathmandu,Stationery,Geometry Box,1,430,15,Cash,Returned
+ORD1074,2026-09-26,C019,Manoj Oli,Pokhara,Home & Kitchen,Blanket,1,2880,5,Bank Transfer,Pending
+ORD1075,2026-09-01,C049,Binod Ghimire,Dharan,Stationery,Notebook Pack,1,510,10,Bank Transfer,Delivered
+ORD1076,2026-05-08,C044,Kabita Khatri,Kathmandu,Groceries,Basmati Rice 5kg,3,910,10,Khalti,Delivered
+ORD1077,2026-02-05,C010,Sunita Magar,Biratnagar,Electronics,Phone Charger,1,1010,5,Card,Delivered
+ORD1078,2026-01-24,C003,Hari Gurung,Biratnagar,Stationery,Calculator,3,0,10,Card,Delivered
+ORD1079,2026-10-03,C022,Hari Khatri,Lalitpur,Electronics,LED Bulb Pack,2,520,10,Card,Cancelled
+ORD1080,2026-04-19,C057,Binod Khatri,Butwal,Stationery,Pen Box,1,340,5,Khalti,Delivered
+ORD1081,2026-06-06,C056,Binod Pandey,Dharan,Groceries,Mustard Oil 1L,5,300,0,eSewa,Delivered
+ORD1082,2026-07-11,C004,Gita Rai,Butwal,Groceries,Tea 500g,1,390,0,Cash,Delivered
+ORD1083,2026-08-01,C010,Sunita Magar,Kathmandu,Clothing,Jacket,1,7170,10,eSewa,Delivered
+ORD1084,2026-01-25,C025,Rita Lama,Dharan,Grocery,Phone Charger,5,630,0,Khalti,Returned
+ORD1085,2026-04-03,C022,Hari Khatri,Dharan,Clothing,Woolen Cap,,630,5,Cash,Delivered
+ORD1086,2026-10-28,C004,Gita Rai,Pokhara,Clothing,Jacket,1,6430,0,eSewa,Returned
+ORD1087,2026-03-07,C040,Nabin Subedi,Bharatpur,Home & Kitchen,Steel Plates Set,5,1350,0,eSewa,Cancelled
+ORD1088,2026-07-28,C037,Mina Khatri,Butwal,Electronics,LED Bulb Pack,2,850,15,Khalti,Delivered
+ORD1089,2026-04-18,C037,Mina Khatri,Lalitpur,Electronics,Phone Charger,two,810,0,eSewa,Delivered
+ORD1090,2026-08-04,C036,Suresh Pandey,Biratnagar,Home & Kitchen,Water Bottle,3,680,10,Cash,Delivered
+ORD1091,2026-07-17,C046,Sunita Regmi,Biratnagar,Home & Kitchen,Blanket,2,2890,0,Khalti,Delivered
+ORD1092,2026-09-12,C017,Kiran Neupane,Biratnagar,Stationery,Geometry Box,4,210,15,eSewa,Delivered
+ORD1093,2026-01-24,C019,Manoj Oli,Pokhara,Electronics,Power Bank,2,2180,10,eSewa,Delivered
+ORD1094,2026-03-04,C023,Sita Subedi,Dharan,Groceries,Mustard Oil 1L,1,310,10,Cash,Delivered
+ORD1095,2026-06-27,C048,Puja Ghimire,Kathmandu,Electronics,Power Bank,5,3220,5,eSewa,Delivered
+ORD1096,2026-04-14,C020,Puja Bista,Bharatpur,Groceries,Lentils 2kg,1,370,0,Cash,Delivered
+ORD1097,2026-05-15,C021,Suresh Regmi,Biratnagar,Clothing,Woolen Cap,2,490,0,Cash,Returned
+ORD1098,2026-03-11,C038,Rita Ghimire,Pokhara,Stationery,Pen Box,2,240,10,Khalti,Delivered
+ORD1099,2026-03-07,C035,Prakash Subedi,Pokhara,Clothing,Jacket,1,3700,0,Khalti,Cancelled
+ORD1100,31/13/2026,C034,Kiran Subedi,Dharan,Groceries,Tea 500g,1,310,5,Bank Transfer,Delivered
+ORD1101,2026-01-10,C055,Rita Lama,Lalitpur,Groceries,Basmati Rice 5kg,4,1020,0,Card,Delivered
+ORD1102,2026-07-25,C056,Binod Pandey,Biratnagar,Clothing,Jacket,3,3770,5,Cash,Delivered
+ORD1103,2026-07-26,C009,Rajesh Poudel,Lalitpur,Stationery,Pen Box,3,340,0,Cash,Returned
+ORD1104,2026-02-02,C023,Sita Subedi,Pokhara,Home & Kitchen,Water Bottle,5,640,15,Card,Pending
+ORD1105,2026-01-23,C038,Rita Ghimire,Biratnagar,Home & Kitchen,Water Bottle,2,430,0,eSewa,Delivered
+ORD1106,2026-05-05,C044,Kabita Khatri,Pokhara,Stationery,Notebook Pack,2,380,5,Khalti,Delivered
+ORD1107,2026-08-14,C015,Nabin Bhandari,Bharatpur,Groceries,Lentils 2kg,2,380,0,Cash,Delivered
+ORD1108,2026-04-30,C050,Rajesh Lama,Bharatpur,Clothing,Jacket,1,4920,0,Cash,Delivered
+ORD1109,2026-01-16,C010,Sunita Magar,kathmandu,Stationery,Notebook Pack,3,520,10,Cash,Delivered
+ORD1110,2026-06-06,C038,Rita Ghimire,Kathmandu,Stationery,Calculator,1,1590,0,eSewa,Delivered
+ORD1111,2026-04-14,C032,Kabita Lama,Butwal,Groceries,Lentils 2kg,2,360,0,Bank Transfer,Delivered
+ORD1112,2026-08-04,C032,Kabita Lama,Lalitpur,Stationery,Pen Box,3,230,10,Bank Transfer,Delivered
+ORD1113,2026-02-28,C003,Hari Gurung,Bharatpur,Stationery,Geometry Box,4,370,10,Bank Transfer,Delivered
+ORD1114,2026-02-22,C005,Binod Adhikari,Kathmandu,Electronics,Phone Charger,1,730,0,Card,Delivered
+ORD1115,2026-08-16,C046,Sunita Regmi,Lalitpur,Groceries,Lentils 2kg,5,320,0,Cash,Returned
+ORD1116,2026-03-22,C023,Sita Subedi,Pokhara,Electronics,LED Bulb Pack,2,740,0,Bank Transfer,Delivered
+ORD1117,2026-04-20,C022,Hari Khatri,Dharan,Electronics,Phone Charger,,1300,10,Bank Transfer,Delivered
+ORD1118,2026-01-05,C001,Sita Sharma,Bharatpur,Home & Kitchen,Pressure Cooker,3,2410,10,Card,Delivered
+ORD1119,2026-01-29,C049,Binod Ghimire,Butwal,Home & Kitchen,Pressure Cooker,2,2400,0,eSewa,Returned
+ORD1120,2026-10-04,C019,Manoj Oli,Pokhara,Stationery,Pen Box,1,210,10,Khalti,Delivered
+ORD1121,15-03-2026,C032,Kabita Lama,Biratnagar,Clothing,Woolen Cap,1,460,0,Bank Transfer,Delivered
+ORD1122,2026-05-18,C018,Laxmi Dahal,Lalitpur,Clothing,Jeans,5,3150,0,Bank Transfer,Returned
+ORD1123,2026-08-11,C039,Suresh Khatri,Lalitpur,Stationery,Geometry Box,2,400,0,,Returned
+ORD1124,2026-06-28,C046,Sunita Regmi,Pokhara,Clothing,Cotton T-Shirt,2,1150,0,Bank Transfer,Returned
+ORD1125,2026-10-17,C026,Sabina Lama,KTM,ELECTRONICS,Steel Plates Set,5,1040,0,Cash,Delivered
+ORD1126,2026-05-24,C014,Sabina Joshi,Kathmandu,Electronics,LED Bulb Pack,2,520,0,eSewa,Delivered
+ORD1127,2026-02-19,C025,Rita Lama,Biratnagar,Groceries,Basmati Rice 5kg,2,900,10,Cash,Delivered
+ORD1128,2026-01-20,C008,Mina Tamang,Lalitpur,Groceries,Mustard Oil 1L,1,290,5,Bank Transfer,Returned
+ORD1129,2026-10-17,C014,Sabina Joshi,Dharan,Clothing,Woolen Cap,2,780,0,eSewa,Delivered
+ORD1130,2026-01-12,C050,Rajesh Lama,,Groceries,Tea 500g,1,390,10,Bank Transfer,Delivered
+ORD1131,2026-07-03,C026,Sabina Lama,Biratnagar,Stationery,Geometry Box,5,350,5,eSewa,delivered
+ORD1132,2026-01-19,C042,Puja Subedi,Lalitpur,Home & Kitchen,Pressure Cooker,2,3730,0,Bank Transfer,DELIVERED 
+ORD1133,2026-05-28,C033,Gita Pandey,Biratnagar,Groceries,Mustard Oil 1L,2,280,10,Card,Delivered
+ORD1134,2026-01-20,C042,Puja Subedi,Dharan,Home & Kitchen,Blanket,1,2130,0,Card,Delivered
+ORD1135,2026-03-28,C011,Dipak Basnet,Lalitpur,Groceries,Tea 500g,2,250,0,Cash,Delivered
+ORD1136,2026-09-19,C031,Suresh Regmi,Pokhara,Stationery,Calculator,5,1370,0,Cash,Delivered
+ORD1137,2026-10-20,C016,Rita Acharya,Pokhara,Clothing,Cotton T-Shirt,4,820,0,Khalti,Delivered
+ORD1138,2026-02-07,C043,Prakash Ghimire,Lalitpur,Groceries,Mustard Oil 1L,5,310,0,Cash,Delivered
+ORD1139,2026-02-19,C057,Binod Khatri,Pokhara,Home & Kitchen,Blanket,2,3290,10,Bank Transfer,Pending
+ORD1140,2026-08-31,C049,Binod Ghimire,Kathmandu,Home & Kitchen,Water Bottle,4,650,0,Bank Transfer,Delivered
+ORD1141,2026-10-25,C032,Kabita Lama,Pokhara,Groceries,Basmati Rice 5kg,3,1210,10,Cash,Returned
+ORD1142,2026-10-14,C055,Rita Lama,Lalitpur,Electronics,Earbuds,5,1740,150,Card,Pending
+ORD1143,2026-04-23,C059,Prakash Ghimire,Bharatpur,Electronics,Phone Charger,1,900,0,Bank Transfer,Delivered
+ORD1144,2026-10-27,C001,Sita Sharma,Bharatpur,Groceries,Tea 500g,2,270,15,Cash,Delivered
+ORD1145,2026-07-03,C029,Laxmi Khatri,Butwal,Clothing,Jeans,2,2720,0,Khalti,Delivered
+ORD1146,2026-09-28,C025,Rita Lama,Pokhara,Clothing,Woolen Cap,3,600,0,Bank Transfer,Delivered
+ORD1147,2026-05-21,C050,Rajesh Lama,Butwal,Electronics,Power Bank,5,2620,0,Khalti,Returned
+ORD1148,2026-10-07,C038,Rita Ghimire,Bharatpur,Home & Kitchen,Water Bottle,4,540,0,Cash,Delivered
+ORD1149,2026-03-10,C060,Sabina Pandey,Kathmandu,Clothing,Woolen Cap,5,690,0,Khalti,Delivered
+ORD1150,2026-09-09,C044,Kabita Khatri,Bharatpur,Stationery,Calculator,1,1630,15,Khalti,Delivered
+ORD1151,2027-03-14,C008,Mina Tamang,,Stationery,Calculator,1,970,5,Bank Transfer,Returned
+ORD1152,2026-04-13,C030,Kabita Khatri,Biratnagar,Home & Kitchen,Pressure Cooker,4,3170,5,Cash,Returned
+ORD1153,2026-07-07,C049,Binod Ghimire,Dharan,Groceries,Tea 500g,1,320,0,Card,Delivered
+ORD1154,2026-01-28,C021,Suresh Regmi,Dharan,Groceries,Basmati Rice 5kg,1,1120,0,Card,Delivered
+ORD1155,2026-09-11,C029,Laxmi Khatri,Dharan,Home & Kitchen,Pressure Cooker,1,2430,15,Card,Delivered
+ORD1156,2026-10-03,C042,Puja Subedi,Butwal,electronics,Lentils 2kg,1,440,0,Bank Transfer,Delivered
+ORD1157,2026-08-19,C041,Laxmi Regmi,Biratnagar,Electronics,LED Bulb Pack,1,750,15,Khalti,Pending
+ORD1158,2026-05-02,C010,Sunita Magar,Pokhara,Home & Kitchen,Blanket,2,3010,0,Cash,Delivered
+ORD1159,2026-06-08,C058,Puja Subedi,Bharatpur,Stationery,Notebook Pack,2,340,10,Bank Transfer,Pending
+ORD1160,2026-10-24,C040,Nabin Subedi,Biratnagar,groceries,Basmati Rice 5kg,3,1080,15,Card,Delivered
+ORD1161,2026-08-15,C035,Prakash Subedi,Lalitpur,Stationery,Pen Box,1,220,0,eSewa,Canceled
+ORD1162,2026-10-13,C027,Anita Subedi,Kathmandu,Home and Kitchen,Geometry Box,1,200,0,Card,Delivered
+ORD1163,2026-05-25,C022,Hari Khatri,Bharatpur,Stationery,Calculator,2,1350,0,Khalti,Delivered
+ORD1164,2026-06-12,C022,Hari Khatri,Butwal,Electronics,Phone Charger,2,770,10,eSewa,Delivered
+ORD1165,2026-03-31,C022,Hari Khatri,Butwal,Clothing,Jeans,1,4150,5,Card,Delivered
+ORD1166,2026-10-12,C029,Laxmi Khatri,Dharan,Clothing,Cotton T-Shirt,2,1090,0,Bank Transfer,Delivered
+ORD1167,2026-07-10,C028,Sita Subedi,Dharan,Home & Kitchen,Blanket,3,3420,15,Khalti,Delivered
+ORD1168,2026-07-25,C005,Binod Adhikari,Kathmandu,Groceries,Mustard Oil 1L,5,330,10,eSewa,Delivered
+ORD1169,2026-02-24,C018,Laxmi Dahal,Biratnagar,Groceries,Basmati Rice 5kg,2,1270,5,Bank Transfer,Delivered
+ORD1170,2026-01-04,C008,Mina Tamang,Pokhara,Stationery,Calculator,2,1350,10,eSewa,Returned
+ORD1171,2026-1-5,C047,Puja Lama,Kathmandu,Groceries,Mustard Oil 1L,2,310,10,Khalti,Returned
+ORD1172,2026-06-13,C039,Suresh Khatri,Kathmandu,Stationery,Pen Box,1,220,15,eSewa,Delivered
+ORD1173,2026-08-17,C038,Rita Ghimire,Biratnagar,Grocery,Earbuds,2,4330,0,eSewa,Cancelled
+ORD1174,2026-06-20,C046,Sunita Regmi,Bharatpur,Groceries,Basmati Rice 5kg,1,1050,5,Khalti,Delivered
+ORD1175,2026-08-04,C019,Manoj Oli,Biratnagar,Stationary,Water Bottle,4,350,0,eSewa,Delivered
+ORD1176,2026-04-17,C017,Kiran Neupane,Bharatpur,Groceries,Basmati Rice 5kg,2,950,5,Card,Delivered
+ORD1177,2026-03-22,C014,Sabina Joshi,Bharatpur,Electronics,Power Bank,1,2650,10,Khalti,Delivered
+ORD1178,2026-05-25,C002,Ram Thapa,Kathmandu,Clothing,Woolen Cap,5,600,15,Khalti,Returned
+ORD1179,2026-09-02,C060,Sabina Pandey,Butwal,Groceries,Mustard Oil 1L,1,300,5,Bank Transfer,Pending
+ORD1180,2026-06-03,C004,Gita Rai,Dharan,Groceries,Lentils 2kg,1,350,15,Card,Delivered
+ORD1181,2026-09-01,C047,Puja Lama,Bharatpur,Groceries,Mustard Oil 1L,4,350,0,Bank Transfer,Delivered
+ORD1182,2026-06-21,C058,Puja Subedi,Dharan,Home & Kitchen,Steel Plates Set,1,1060,0,Khalti,Delivered
+ORD1183,2026-08-22,C044,Kabita Khatri,Bharatpur,Groceries,Tea 500g,3,250,0,Cash,Delivered
+ORD1184,2026-03-18,C014,Sabina Joshi,Biratnagar,Clothing,Cotton T-Shirt,2,1060,10,Khalti,Delivered
+ORD1185,2026-06-06,C005,Binod Adhikari,Dharan,Home & Kitchen,Water Bottle,2,550,15,Cash,Delivered
+ORD1186,2026-09-02,C015,Nabin Bhandari,Pokhara,Stationery,Notebook Pack,4,390,0,Cash,Returned
+ORD1187,2026-06-22,C026,Sabina Lama,Kathmandu,Home & Kitchen,Pressure Cooker,1,2830,5,Card,Delivered
+ORD1188,2026-04-09,C028,Sita Subedi,Kathmandu,Groceries,Mustard Oil 1L,1,320,0,Bank Transfer,Delivered
+ORD1189,2026-05-20,C036,Suresh Pandey,Butwal,Home & Kitchen,Pressure Cooker,4,2950,5,Khalti,Delivered
+ORD1190,2026-05-30,C027,Anita Subedi,Kathmandu,Electronics,Phone Charger,500,1030,0,Card,Delivered
+ORD1191,2026-02-08,,Sita Sharma,Biratnagar,Stationery,Notebook Pack,1,390,10,Khalti,Pending
+ORD1192,2026-01-03,C055,Rita Lama,,Clothing,Woolen Cap,4,450,15,Card,Delivered
+ORD1193,2026-09-24,C043,Prakash Ghimire,Lalitpur,Clothing,Cotton T-Shirt,4,870,15,Khalti,Cancelled
+ORD1194,2026-02-20,C001,Sita Sharma,Lalitpur,Stationery,Calculator,1,1480,0,Bank Transfer,Pending
+ORD1195,2026-05-15,C048,Puja Ghimire,Butwal,Home & Kitchen,Blanket,,3540,0,Khalti,Delivered
+ORD1196,2026-10-20,C013,Prakash Khadka,Lalitpur,Stationery,Geometry Box,1,210,0,eSewa,Delivered
+ORD1197,2026-07-26,C056,Binod Pandey,Bharatpur,Clothing,Woolen Cap,5,710,0,Card,Delivered
+ORD1198,2026-01-13,C053,Suresh Pandey,Pokhara,Stationery,Notebook Pack,2,430,5,Bank Transfer,Delivered
+ORD1199,2026-10-24,C020,Puja Bista,Biratnagar,Home & Kitchen,Steel Plates Set,3,1450,0,Bank Transfer,Delivered
+ORD1200,2026-05-08,C008,Mina Tamang,Dharan,Electronics,Phone Charger,3,1290,15,eSewa,Delivered
+ORD1201,2026-01-22,C029,Laxmi Khatri,Kathmandu,Groceries,Lentils 2kg,4,330,-10,eSewa,Cancelled
+ORD1202,2026-09-26,C001,Sita Sharma,Dharan,Groceries,Lentils 2kg,3,300,0,Bank Transfer,Delivered
+ORD1203,2026-01-24,C036,Suresh Pandey,Pokhara,Groceries,Tea 500g,3,340,0,Card,Delivered
+ORD1204,2026-05-29,C029,Laxmi Khatri,Dharan,Stationery,Calculator,4,1400,10,Card,Cancelled
+ORD1205,2026-02-06,C050,Rajesh Lama,Dharan,Electronics,Power Bank,5,2150,0,eSewa,Delivered
+ORD1206,2026-06-21,C021,Suresh Regmi,Biratnagar,Clothing,Cotton T-Shirt,3,1310,0,eSewa,Delivered
+ORD1207,2026-06-13,C007,Suresh Karki,Bharatpur,Groceries,Lentils 2kg,3,300,0,Cash,Delivered
+ORD1208,2026-07-04,C009,Rajesh Poudel,Butwal,Electronics,Earbuds,,2980,10,,Delivered
+ORD1209,2026-03-31,C031,Suresh Regmi,Pokhara,Electronics,LED Bulb Pack,1,750,0,Card,Delivered
+ORD1210,2026-05-23,C029,Laxmi Khatri,Pokhara,Electronics,Earbuds,4,3320,5,Cash,Delivered
+ORD1101,2026-09-26,C010,Sunita Magar,Dharan,Stationery,Geometry Box,1,210,5,Khalti,Delivered
+ORD1212,2026-06-11,C045,Hari Lama,Kathmandu,Home & Kitchen,Steel Plates Set,2,1590,5,Bank Transfer,Delivered
+ORD1213,2026-02-13,C033,Gita Pandey,Kathmandu,Clothing,Woolen Cap,1,430,0,Cash,Delivered
+ORD1214,2026-01-26,C053,Suresh Pandey,Butwal,Clothing,Jacket,4,4220,15,Khalti,Delivered
+ORD1215,2026-03-04,C017,Kiran Neupane,Dharan,Electronics,Power Bank,1,1880,0,Bank Transfer,Delivered
+ORD1216,2026-05-16,C008,Mina Tamang,Biratnagar,Groceries,Tea 500g,1,260,0,Khalti,Delivered
+ORD1217,2026-07-03,C056,Binod Pandey,Bharatpur,Stationery,Pen Box,2,320,0,eSewa,Returned
+ORD1218,2026-09-09,C008,Mina Tamang,Butwal,Electronics,Power Bank,2,2950,0,Bank Transfer,Delivered
+ORD1219,2026-03-01,C056,Binod Pandey,Kathmandu,Clothing,Jeans,2,3810,0,Bank Transfer,Delivered
+ORD1220,2026-04-15,C060,Sabina Pandey,Bharatpur,Stationery,Notebook Pack,3,400,5,eSewa,Delivered
+ORD1221,2026-09-15,C057,Binod Khatri,Biratnagar,Clothing,Jacket,5,6390,0,Cash,Delivered
+ORD1222,2026-06-20,C049,Binod Ghimire,Kathmandu,Home & Kitchen,Water Bottle,2,470,10,eSewa,Delivered
+ORD1223,2026-08-01,C024,Prakash Regmi,Biratnagar,electronics,Lentils 2kg,5,340,5,Bank Transfer,Delivered
+ORD1224,2026-04-13,C036,Suresh Pandey,Kathmandu,Stationery,Geometry Box,1,310,0,Cash,Delivered
+ORD1225,2026-03-13,C059,Prakash Ghimire,Pokhara,Home & Kitchen,Blanket,1,2470,0,Card,Delivered
+ORD1226,2026-06-23,C037,Mina Khatri,Lalitur,Clothing,Cotton T-Shirt,1,1200,10,Cash,Cancelled
+ORD1227,2026-09-22,C004,Gita Rai,Kathmandu,Stationery,Pen Box,1,180,15,Cash,Delivered
+ORD1228,2026-08-09,C053,Suresh Pandey,,Home & Kitchen,Pressure Cooker,2,3740,0,eSewa,Cancelled
+ORD1229,2026-07-30,C040,Nabin Subedi,Dharan,Groceries,Tea 500g,4,300,5,Bank Transfer,Cancelled
+ORD1230,2026-03-01,C060,Sabina Pandey,Pokhara,Clothing,Cotton T-Shirt,1,940,15,Bank Transfer,Delivered
+ORD1231,2026-04-10,C048,Puja Ghimire,Bharatpur,Home & Kitchen,Water Bottle,3,390,0,Bank Transfer,Delivered
+ORD1232,2026-09-19,C038,Rita Ghimire,pokhara,Stationery,Notebook Pack,1,330,10,Card,Delivered
+ORD1233,2026-10-06,C049,Binod Ghimire,Pokhara,Home & Kitchen,Blanket,1,2600,10,eSewa,Returned
+ORD1234,2026-04-07,C011,Dipak Basnet,Kathmandu,ELECTRONICS,Geometry Box,2,430,0,eSewa,Delivered
+ORD1235,2026-08-12,C012,Kabita Limbu,Lalitpur,Stationery,Calculator,3,1310,5,eSewa,Pending
+ORD1236,2026-04-29,C050,Rajesh Lama,Lalitpur,Clothing,Jacket,1,4510,0,Bank Transfer,Delivered
+ORD1237,2026-03-27,C008,Mina Tamang,Bharatpur,Home & Kitchen,Water Bottle,2,490,15,Card,Cancelled
+ORD1238,2026-09-06,C039,Suresh Khatri,Bharatpur,Home & Kitchen,Water Bottle,5,530,0,Bank Transfer,Delivered
+ORD1239,2026-01-27,C054,Rajesh Ghimire,Kathmandu,Stationery,Pen Box,4,200,0,eSewa,Pending
+ORD1240,2026-03-03,C012,Kabita Limbu,Lalitpur,Stationery,Pen Box,2,170,0,Cash,Delivered
+ORD1008,2026-10-04,C049,Binod Ghimire,Butwal,Home & Kitchen,Water Bottle,3,310,0,Card,Pending
+ORD1065,2026-09-11,C046,Sunita Regmi,Lalitpur,Groceries,Tea 500g,2,380,5,Card,Cancelled
+ORD1116,2026-03-22,C023,Sita Subedi,Pokhara,Electronics,LED Bulb Pack,2,740,0,Bank Transfer,Delivered
+ORD1181,2026-09-01,C047,Puja Lama,Bharatpur,Groceries,Mustard Oil 1L,4,350,0,Bank Transfer,Delivered
